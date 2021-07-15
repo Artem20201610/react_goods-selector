@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,OACE,gBAAiB,CAClB,WAGC,kBAAmB,CACpB,UAGC,qBAAsB,CACvB,MAGC,iBAAkB","file":"main.1d3d082b.chunk.css","sourcesContent":[".clear {\n  margin-left: 10px;\n}\n\n.container {\n  margin-bottom: 10px;\n}\n\n.selected {\n  background-color: blue;\n}\n\n.good {\n  margin-right: 10px;\n}\n"]}
